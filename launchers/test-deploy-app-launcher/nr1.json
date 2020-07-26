@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "test-deploy-app-launcher",
+    "displayName": "TestDeployAppLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "test-deploy-app-nerdlet"
+}
