@@ -4,6 +4,6 @@ import React from 'react';
 
 export default class TestDeployAppNerdletNerdlet extends React.Component {
     render() {
-        return <h1>Hello, test-deploy-app-nerdlet Nerdlet! Can I update this?</h1>;
+        return <h1>Hello, test-deploy-app-nerdlet Nerdlet! Can I update this? I can!</h1>;
     }
 }
